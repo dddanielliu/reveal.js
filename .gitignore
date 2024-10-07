@@ -1,4 +1,4 @@
-.idea/
+gidea/
 *.iml
 *.iws
 *.eml
@@ -9,3 +9,5 @@ log/*.log
 tmp/**
 node_modules/
 .sass-cache
+
+slides/
